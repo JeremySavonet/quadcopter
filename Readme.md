@@ -9,6 +9,19 @@ HW Requirements:
 * ESC: Hobby King 20A ESC 3A UBEC
 * Brushless motor: D2822/17 Brushless Outrunner 1100kv 
 
+Need to evaluate those GPS module:
+* https://www.sparkfun.com/products/8975
+* https://www.sparkfun.com/products/13199
+* https://www.adafruit.com/products/746
+* https://www.adafruit.com/product/790
+
+Need to evaluate thos inertial central:
+* https://www.adafruit.com/products/1604
+* https://www.adafruit.com/products/1714
+* https://www.sparkfun.com/products/10736
+* https://www.sparkfun.com/products/13284
+* https://www.sparkfun.com/products/10724
+
 SW Requirements:
 ==
 
