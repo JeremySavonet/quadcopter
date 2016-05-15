@@ -1,0 +1,8 @@
+*.dep
+*.DS_Store
+*.bak
+*.b#*
+*.s#*
+build/
+tmp/
+debug/
