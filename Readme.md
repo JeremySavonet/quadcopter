@@ -15,7 +15,7 @@ Need to evaluate those GPS module:
 * https://www.adafruit.com/products/746
 * https://www.adafruit.com/product/790
 
-Need to evaluate thos inertial central:
+Need to evaluate those inertial central:
 * https://www.adafruit.com/products/1604
 * https://www.adafruit.com/products/1714
 * https://www.sparkfun.com/products/10736
